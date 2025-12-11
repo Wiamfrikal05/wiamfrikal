@@ -1,7 +1,7 @@
 <!-- 🌟 Welcome Section -->
 <div align="center">
   <h1>Hi there 👋, I'm Wiam Frikal</h1>
-  <p>🚀 Full-Stack Developer | JavaScript & Web Enthusiast | Problem Solver</p>
+  <p>🚀 Full-Stack Developer | MERN Stack | Computer Engineering Student | Problem Solver</p>
 
   <img src="https://komarev.com/ghpvc/?username=wiamfrikal&style=flat-square&color=blue" alt="Profile views" />
 </div>
@@ -53,7 +53,7 @@ I’m a full-stack developer who enjoys building efficient, user-friendly digita
 <p align="center">
   <a href="https://www.linkedin.com/in/wiam-frikal-00b8b3344/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wiamfrikal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/wiam_gallery/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/wiam_gallery/"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ## ✨ Fun Fact
