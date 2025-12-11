@@ -44,8 +44,6 @@ I’m a full-stack developer who enjoys building efficient, user-friendly digita
 | **Bloodna** | Blood donation management app | MongoDB, Express, React, Node.js |
 | **Management Stock** | Full-stack management system | PHP-LARAVEL |
 
-*(Add links when available)*
-
 ---
 
 ## 📫 Connect with Me
@@ -56,12 +54,13 @@ I’m a full-stack developer who enjoys building efficient, user-friendly digita
   <a href="https://www.instagram.com/wiam_gallery/"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-## ✨ Fun Fact
-- 📸 I love photography — landscapes, portraits, and aesthetic details are my thing.
--🏋️‍♀️ Gym rat — consistency and discipline at the gym help me stay focused in coding too.
--🎧 Music lover — I zone in with playlists when I’m coding.
--🎨 I like designing clean UI layouts before building them.
--💡 I always try to learn something new every week — even if it’s small.  
+## ✨ Fun Facts
+
+- 📸 **Photography lover** — landscapes, portraits, and aesthetic details are my thing.  
+- 🏋️‍♀️ **Gym rat** — consistency and discipline at the gym help me stay focused when coding.  
+- 🎧 **Music addict** — I zone in with playlists when I'm deep into work.  
+- 🎨 **UI aesthetic fan** — I enjoy designing clean, minimal interfaces before building them.  
+- 💡 **Always learning** — I try to pick up something new every week, even if it’s small.
 
 ---
 
